@@ -1,0 +1,4 @@
+nx=32   ny=32   nz=100  alpha0=0.66     beta0=1.32      htcoeff=1.5     Re=180
+deltat=0.002    t_max=1         dt_save=0.05
+meanpx=1        meanflowx=0     meanpy=0        meanflowy=0
+Vfield=""
