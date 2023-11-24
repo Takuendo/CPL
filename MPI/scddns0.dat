@@ -5,4 +5,4 @@ Re=180
 deltat=0.002 	t_max=10
 dt_save=0.5
 meanpx=1	meanpy=0
-Vfield=../scddns0-Re180Px-32.dat
+Vfield=""
